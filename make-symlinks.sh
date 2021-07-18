@@ -9,7 +9,7 @@ dir=~/swaydotfiles
 olddir=~/swaydotfiles/dotfiles_old
 
 # list of files/folder to symline in homedir
-files=".bash_profile .bashrc .profile .zshrc .zshrc.pre-oh-my-zsh"
+files=".bash_profile .bashrc .profile .zshrc .zshrc.pre-oh-my-zsh .config/foot/"
 
 # create dotfiles_old in homedir
 echo -n "Creating $olddir for backup of any exsisting dotfiles in ~ ..."
